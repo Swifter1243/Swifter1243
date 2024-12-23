@@ -1,4 +1,13 @@
-## Hi there 👋
+## I'm Swifter!
+
+I'm a developer/artist and I am most well known for my [Beat Saber](https://beatsaver.com/profile/4284246) work. I mostly produce various tools for creating advanced modded levels. Right now I'm working on [Extra Sensory II](https://www.youtube.com/watch?v=ilXgDkORxl4).
+
+Some of my skills include:
+- Tools Programming
+- Graphics Programming
+- Gameplay Programming
+- Video Editing
+- Music/Audio Production
 
 <!--
 **Swifter1243/Swifter1243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
