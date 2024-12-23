@@ -1,6 +1,6 @@
 ## I'm Swifter!
 
-I'm a developer/artist and I am most well known for my [Beat Saber](https://beatsaver.com/profile/4284246) work. I mostly create tools and then use them to pioneer advanced modded levels, pushing them further than anyone has before! Right now I'm working on [Extra Sensory II](https://www.youtube.com/watch?v=ilXgDkORxl4).
+I'm a developer/artist and I am most well known for my [Beat Saber](https://beatsaver.com/profile/4284246) work. I mostly create tools and then use them to pioneer advanced modded levels. Right now I'm working on [Extra Sensory II](https://www.youtube.com/watch?v=ilXgDkORxl4).
 
 Some of my skills include:
 - Tools Programming
