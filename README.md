@@ -1,10 +1,8 @@
-## I'm Swifter!
-
 <a href="https://github.com/Swifter1243/aether_map">
   <img src="https://github.com/user-attachments/assets/97af8012-188a-4302-9469-cdeb2490e8f3" width="100%" alt="Aether" />
 </a>
 
-***
+## I'm Swifter!
 
 I'm a developer/artist and I am most well known for my [Beat Saber](https://beatsaver.com/profile/4284246) work. I mostly create tools and then use them to pioneer advanced modded levels. My latest project is [Extra Sensory II](https://exsii.totalbs.dev/).
 
